@@ -1,1 +1,1 @@
-rubber-band is submodule of slingshot
+Rubberband is it's own module
